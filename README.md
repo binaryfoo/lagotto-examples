@@ -1,0 +1,1 @@
+Example use of [lagotto](https://github.com/binaryfoo/lagotto) log parser from a [scalas](http://www.scala-sbt.org/0.13/docs/Scripts.html) script.
